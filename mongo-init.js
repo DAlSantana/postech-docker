@@ -1,0 +1,3 @@
+db.createLanguage({
+  name: "python",
+});
